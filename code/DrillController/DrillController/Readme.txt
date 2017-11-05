@@ -38,6 +38,6 @@ to decrease startup inrush after reset or poweron switch we will slowly increase
 But again becarefull don't decrease the ADC freq to so low that the whole program will be
 slowed down because of it.
 
-Anyway I still feel it was not worth the effort of building it because it can immitate the 
+Anyway I still feel it was not worth the effort of building it because it cannot immitate the 
 effect of raw power with all this control, speed, direction and protection. If it is completely
 on raw power then only it can be effective in serving its purpose well which is to DRILL.
